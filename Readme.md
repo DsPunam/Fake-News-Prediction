@@ -1,6 +1,6 @@
 ## Fake News Prediction
 
-I have read data from an excel file and predcited the fake news among them.
+I have read data from an excel file and predicted the fake news among them.
 
 ### Libraries Used:
 1. Pandas
